@@ -1,0 +1,6 @@
+Diatas adalah tugas UTS mengenai CRUD dasar pada web
+tampilan awal ketika masuk web ada Tombol untuk "TAMPILKAN DATA MAHASISWA"
+jika sudah masuk ketampilan mahasiswa langsung Menampilkan DATA mahasiswa yang sebelumnya ditambahkan.
+dan ada Tombol "Tambah Data" yaitu untuk menambah data mahasiswa dan data yang harus diisikan adalah:
+NIM,NAMA,ALAMAT,PRODI
+jika sudah mengisi identitas klik Tombol "Tambah" otomatis data akan ditampilkan ke Tabel dan tersave ke Database,, juga misal salah memasukan data kita bisa merubahnya dengan Klik Tombol "EDIT" sesuai data yang ingin di edit.. jika data ingin dihapus juga tinggal klik Tombol "HAPUS"
